@@ -39,28 +39,11 @@ We have use the following techniques in our implementation:-
 
 ## Usage
 To use our, simply run the IR.py. Then you have to enter a source text (related to input image), the target text (that you want to happen to the image) and path of the input image. <br> For example:
+
 >- python IR.py
 >- Enter source text: human
 >- Enter the target text: Curly hair
 >- Enter image path: imgs/celeb1.png
-
-## Contributions
-This project is created by a team of M.Tech students at the Indraprastha Institute of Information Technology (IIIT) Delhi. Our team includes:
-- Abhuday Tiwari (MT22005) 
--  Amrita Aash (MT22011) 
-- Kirti Vashishtha (MT22035)
-- Nikhilesh Verhwani (MT22114)
-- Ritisha Gupta (MT22056)
-- Shubham Agrawal (MT22124)  
-
-## Contact
-If you have any questions or feedback about the project, please contact us at any one of the following:
-- [abhuday22005@iiitd.ac.in](mailto:abhuday22005@iiitd.ac.in)
-- [amrita22008@iiitd.ac.in](mailto:amrita22008@iiitd.ac.in) 
-- [kirti22035@iiitd.ac.in](mailto:kirti22035@iiitd.ac.in)
-- [nikhilesh22114@iiitd.ac.in](mailto:nikhilesh22114@iiitd.ac.in) 
-- [ritisha22056@iiitd.ac.in](mailto:ritisha22056@iiitd.ac.in)
-- [shubham22124@iiitd.ac.in](mailto:shubham22124@iiitd.ac.in)
 
 ##  Acknowledgments
 We'd like to thank the creators of the CLIP model and stable diffusion for their groundbreaking work in text-to-image generation/manipulation. We'd also like to acknowledge the many open-source libraries and tools that we've used in developing including PyTorch, NumPy, and PIL.
