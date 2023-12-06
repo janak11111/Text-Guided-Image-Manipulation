@@ -24,8 +24,8 @@ for CelebA-HQ, you can use following code:
 bash data_download.sh celeba_hq .
 
 ### Model Architecture
-![architecture]([https://raw.githubusercontent.com/agrawals1/IR_Project/main/Final_23April/Arch1.jpeg](https://github.com/janak11111/Text-Guided-Image-Manipulation/blob/main/Diffusion%2BClip/Arch1.jpeg))
-![architecture]([https://raw.githubusercontent.com/agrawals1/IR_Project/main/Final_23April/Arch2.jpeg](https://github.com/janak11111/Text-Guided-Image-Manipulation/blob/main/Diffusion%2BClip/Arch2.jpeg))
+![architecture](https://github.com/janak11111/Text-Guided-Image-Manipulation/blob/main/Diffusion%2BClip/Arch1.jpeg)
+![architecture](https://github.com/janak11111/Text-Guided-Image-Manipulation/blob/main/Diffusion%2BClip/Arch2.jpeg)
 
 
 ## Codebase
